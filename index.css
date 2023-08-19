@@ -22,7 +22,7 @@ body {
   margin: auto;
   align-items: center;
   border-radius: 20px;
-  border: 2px solid #4adf86;
+  border: 2px solid #8d0cf7;
 }
 .header {
   margin-left: 20px;
@@ -37,10 +37,10 @@ body {
   margin-bottom: 40px;
 }
 .head1 {
-  color: #4adf86;
+  color: #015a96;
 }
 .Generate {
-  background-color: #10b981;
+  background-color: #015a96;
   color: white;
   height: 40px;
   width: auto;
@@ -66,14 +66,15 @@ hr {
 }
 #pass1,
 #pass2 {
-  background: #2b394c;
-  color: #55f991;
+  background: white;
+  color: black;
   border: none;
   border-radius: 4px;
   width: 200px;
   height: 30px;
   cursor: pointer;
   text-align: center;
+  border:1px solid #015a96;
   margin-bottom: 10px;
 }
 .footer {
